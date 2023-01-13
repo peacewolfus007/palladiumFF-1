@@ -1,0 +1,26 @@
+matching atoms here... 
+MASS 
+Pd  106.42        2.050 
+
+BOND 
+Pd-3c 144.54   2.380 
+Pd-2n 072.30   2.213 
+Pd-4e 86.000   2.068  #ABIDOH 
+1c-Pd 197.41   2.301  #ACIWAR --TRANSFORM 
+
+ANGLE 
+2n-Pd-3c   87.330     90.000 
+Pd-2n-c2   134.97     115.91 
+4e-Pd-3c   38.154     87.060 
+3c-Pd-2n   87.330     90.000 
+c2-2n-Pd   139.06     106.43 
+4e-Pd-2n   154.74     178.49 
+3c-Pd-4e   55.592     90.670    ACIWER 
+2n-Pd-4e   154.74     178.49    ACIWER 
+
+DIHE 
+X -Pd-2n-X   1    0.000         0.000           3.000 
+
+IMPROPER 
+
+NONBON 

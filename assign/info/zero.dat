@@ -1,0 +1,29 @@
+MASS
+Pd 106.420       0.000               ATTN, no polarizability parameter
+BOND
+2n-Pd    0.00   0.000       ATTN, need revision
+3c-Pd    0.00   0.000       ATTN, need revision
+1c-Pd    0.00   0.000       ATTN, need revision
+4e-Pd    0.00   0.000       ATTN, need revision
+ANGLE
+Pd-2n-na    0.000       0.000   ATTN, need revision
+Pd-2n-c2    0.000       0.000   ATTN, need revision
+Pd-4e-nh    0.000       0.000   ATTN, need revision
+2n-Pd-3c    0.000       0.000   ATTN, need revision
+1c-Pd-2n    0.000       0.000   ATTN, need revision
+2n-Pd-4e    0.000       0.000   ATTN, need revision
+1c-Pd-3c    0.000       0.000   ATTN, need revision
+3c-Pd-4e    0.000       0.000   ATTN, need revision
+1c-Pd-4e    0.000       0.000   ATTN, need revision
+DIHE
+nh-4e-Pd-2n   1    0.000         0.000           0.000      ATTN, need revision
+nh-4e-Pd-3c   1    0.000         0.000           0.000      ATTN, need revision
+nh-4e-Pd-1c   1    0.000         0.000           0.000      ATTN, need revision
+na-2n-Pd-3c   1    0.000         0.000           0.000      ATTN, need revision
+na-2n-Pd-1c   1    0.000         0.000           0.000      ATTN, need revision
+na-2n-Pd-4e   1    0.000         0.000           0.000      ATTN, need revision
+c2-2n-Pd-3c   1    0.000         0.000           0.000      ATTN, need revision
+c2-2n-Pd-1c   1    0.000         0.000           0.000      ATTN, need revision
+c2-2n-Pd-4e   1    0.000         0.000           0.000      ATTN, need revision
+IMPROPER
+  Pd          0.0000  0.0000             ATTN, need revision

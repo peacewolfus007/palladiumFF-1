@@ -1,0 +1,45 @@
+Remark line goes here
+MASS
+Pd 106.420       0.000               ATTN, no polarizability parameter
+
+BOND
+Pd-na    0.00   0.000       ATTN, need revision
+Pd-cl    0.00   0.000       ATTN, need revision
+Pd-c2    0.00   0.000       ATTN, need revision
+
+ANGLE
+Pd-na-na    0.000       0.000   ATTN, need revision
+Pd-na-cc    0.000       0.000   ATTN, need revision
+Pd-c2-nh    0.000       0.000   ATTN, need revision
+cl-Pd-na    0.000       0.000   ATTN, need revision
+c2-Pd-na    0.000       0.000   ATTN, need revision
+hn-na-na   48.294     120.200   Calculated with empirical approach for hn-na-na
+cl-Pd-cl    0.000       0.000   ATTN, need revision
+c2-Pd-cl    0.000       0.000   ATTN, need revision
+
+DIHE
+na-Pd-c2-nh   1    0.000         0.000           0.000      ATTN, need revision
+cl-Pd-c2-nh   1    0.000         0.000           0.000      ATTN, need revision
+ca-ca-cc-na   4    2.800       180.000           2.000      same as X -c2-ca-X , penalty score=232.0
+cl-Pd-na-na   1    0.000         0.000           0.000      ATTN, need revision
+c2-Pd-na-na   1    0.000         0.000           0.000      ATTN, need revision
+cl-Pd-na-cc   1    0.000         0.000           0.000      ATTN, need revision
+c2-Pd-na-cc   1    0.000         0.000           0.000      ATTN, need revision
+ca-ca-cc-h4   4    2.800       180.000           2.000      same as X -c2-ca-X , penalty score=232.0
+
+IMPROPER
+c2-c3-nh-ca         1.1          180.0         2.0          Using the default value
+Pd-cc-na-na         1.1          180.0         2.0          Using the default value
+ca-hn-na-na         1.1          180.0         2.0          Using the default value
+Pd-nh-c2-nh         1.1          180.0         2.0          Using the default value
+ca-ca-ca-nh         1.1          180.0         2.0          Using the default value
+ca-ca-ca-ha         1.1          180.0         2.0          Using general improper torsional angle  X- X-ca-ha, penalty score=  6.0)
+ca-h4-cc-na         1.1          180.0         2.0          Using the default value
+ca-ca-ca-cc         1.1          180.0         2.0          Same as c2-ca-ca-ca, penalty score= 21.3)
+ca-ca-ca-na         1.1          180.0         2.0          Using the default value
+
+NONBON
+  Pd          0.0000  0.0000             ATTN, need revision
+
+
+

@@ -1,0 +1,78 @@
+matching atoms here... 
+MASS 
+2n 14.010        0.530               same as nh  
+3c 35.450        1.910               same as cl  
+1c 35.450        1.910               same as cl  
+4e 12.010        0.360               same as ca  
+Pd  106.42        2.050  
+
+BOND 
+4e-nh  417.90   1.386       same as ca-nh, penalty score=  0.0 
+2n-na  454.80   1.400       same as na-nh, penalty score=  0.0 
+2n-c2  416.20   1.387       same as c2-nh, penalty score=  0.0 
+Pd-3c 144.54   2.380  
+Pd-2n 072.30   2.213  
+Pd-4e 86.000   2.068  #ABIDOH  
+1c-Pd 197.41   2.301  #ACIWAR --TRANSFORM  
+
+ANGLE 
+hn-na-na   48.294     120.200   Calculated with empirical approach for hn-na-na 
+nh-4e-nh   70.270     120.980   same as nh-ca-nh, penalty score=  0.0 
+2n-na-hn   48.325     120.200   Calculated using nh-na-hn, penalty score=  0.0 
+2n-na-ca   65.380     124.410   same as ca-na-nh, penalty score=  0.0 
+2n-c2-ha   50.340     116.680   same as ha-c2-nh, penalty score=  0.0 
+2n-c2-ca   68.610     123.120   same as cc-c2-nh, penalty score=  2.0 
+c2-2n-na   67.670     115.960   same as ca-nh-na, penalty score=  2.8 
+4e-nh-c3   63.390     119.980   same as c3-nh-ca, penalty score=  0.0 
+4e-nh-ca   63.330     127.460   same as ca-nh-ca, penalty score=  0.0 
+ca-c2-ha   47.880     123.300   same as ca-c2-hc, penalty score=  1.2 
+2n-Pd-3c   87.330     90.000  
+Pd-2n-c2   134.97     115.91  
+4e-Pd-3c   38.154     87.060  
+3c-Pd-2n   87.330     90.000  
+c2-2n-Pd   139.06     106.43  
+4e-Pd-2n   154.74     178.49  
+3c-Pd-4e   55.592     90.670    ACIWER  
+2n-Pd-4e   154.74     178.49    ACIWER  
+
+DIHE 
+ca-ca-cc-na   4    2.800       180.000           2.000      same as X -c2-ca-X , penalty score=232.0 
+ca-ca-cc-h4   4    2.800       180.000           2.000      same as X -c2-ca-X , penalty score=232.0 
+Pd-2n-na-hn   4    4.800         0.000           2.000      same as X -na-nh-X , penalty score=  0.0 
+Pd-2n-na-ca   4    4.800         0.000           2.000      same as X -na-nh-X , penalty score=  0.0 
+Pd-2n-c2-ha   4    2.700       180.000           2.000      same as X -c2-nh-X , penalty score=  0.0 
+Pd-2n-c2-ca   4    2.700       180.000           2.000      same as X -c2-nh-X , penalty score=  0.0 
+Pd-4e-nh-c3   4    4.200       180.000           2.000      same as X -ca-nh-X , penalty score=  0.0 
+Pd-4e-nh-ca   4    4.200       180.000           2.000      same as X -ca-nh-X , penalty score=  0.0 
+nh-4e-nh-c3   4    4.200       180.000           2.000      same as X -ca-nh-X , penalty score=  0.0 
+nh-4e-nh-ca   4    4.200       180.000           2.000      same as X -ca-nh-X , penalty score=  0.0 
+na-2n-c2-ha   4    2.700       180.000           2.000      same as X -c2-nh-X , penalty score=  0.0 
+na-2n-c2-ca   4    2.700       180.000           2.000      same as X -c2-nh-X , penalty score=  0.0 
+c2-2n-na-hn   4    4.800         0.000           2.000      same as X -na-nh-X , penalty score=  0.0 
+c2-2n-na-ca   4    4.800         0.000           2.000      same as X -na-nh-X , penalty score=  0.0 
+X -Pd-2n-X    1    0.000         0.000           3.000  
+
+IMPROPER 
+c2-c3-nh-ca         1.1          180.0         2.0          Using the default value 
+Pd-cc-na-na         1.1          180.0         2.0          Using the default value 
+ca-hn-na-na         1.1          180.0         2.0          Using the default value 
+Pd-nh-c2-nh         1.1          180.0         2.0          Using the default value 
+ca-ca-ca-nh         1.1          180.0         2.0          Using the default value 
+ca-ca-ca-ha         1.1          180.0         2.0          Using general improper torsional angle  X- X-ca-ha, penalty score=  6.0) 
+ca-h4-cc-na         1.1          180.0         2.0          Using the default value 
+ca-ca-ca-cc         1.1          180.0         2.0          Same as c2-ca-ca-ca, penalty score= 21.3) 
+ca-ca-ca-na         1.1          180.0         2.0          Using the default value 
+4e-c3-nh-ca         1.1          180.0         2.0          Using the default value 
+2n-ca-na-hn         1.1          180.0         2.0          Using general improper torsional angle  X- X-na-hn, penalty score=  6.0) 
+Pd-nh-4e-nh         1.1          180.0         2.0          Using the default value 
+ca-ca-ca-nh         1.1          180.0         2.0          Using the default value 
+ca-ca-ca-ha         1.1          180.0         2.0          Using general improper torsional angle  X- X-ca-ha, penalty score=  6.0) 
+2n-ca-c2-ha         1.1          180.0         2.0          Using the default value 
+ca-ca-ca-na         1.1          180.0         2.0          Using the default value 
+
+NONBON 
+  2n          1.8240  0.1700             same as nh  
+  3c          1.9480  0.2650             same as cl  
+  1c          1.9480  0.2650             same as cl  
+  4e          1.9080  0.0860             same as ca  
+  Pd          1.2360  0.0282             https://pubs.acs.org/doi/10.1021/ct400146w 
