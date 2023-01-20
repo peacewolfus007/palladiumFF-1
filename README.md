@@ -5,7 +5,7 @@ Please cite this article: "DEVELOPMENT OF ASSIGN.PY PROGRAM AND AMBER FORCE FIEL
 "
 
 NOTE: 
--download assign folder and run assign.py this command:
+-download assign folder and run assign.py with this command:
  "python3 assign.py"
 -You can add your parameters into assign/data folder. For this:
 bond parameters must be added into gaff2_bonds.dat
